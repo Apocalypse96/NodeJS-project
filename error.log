@@ -1,0 +1,2 @@
+{"level":"error","message":"Error handling request: Invalid sort format. Use key:order (asc or desc)","timestamp":"2024-07-30T19:05:11.840Z"}
+{"level":"error","message":"Error handling request: Invalid filter format. Use key:value","timestamp":"2024-07-30T19:05:38.778Z"}
