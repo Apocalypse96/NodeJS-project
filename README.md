@@ -41,7 +41,7 @@ We interact with the Microsoft Edge Demos JSON API (https://microsoftedge.github
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/nodejs-project.git
+git clone https://github.com/Apocalypse96/NodeJS-project.git
 ```
 ## Navigate to the project directory
  ```cd nodejs-project```
@@ -151,12 +151,3 @@ The application is designed to be easily deployable to cloud platforms like Hero
 
 This project showcases a robust and well-documented Node.js application for fetching, filtering, and sorting data, along with effective error handling. It demonstrates best practices in code organization, testing, and performance optimization.
 
-## Contributing Guidelines
-
-1. Fork the repository
-2. Create a new branch for your feature or bug fix
-3. Commit your changes
-4. Push to your branch
-5. Submit a pull request
-
-_
