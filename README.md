@@ -1,5 +1,5 @@
 
-**Node.js Data Fetching, Filtering, and Sorting API**
+# Node.js Data Fetching, Filtering, and Sorting API
 
 **Project Description**
 
@@ -38,33 +38,35 @@ This Node.js application fetches data from an external API and provides endpoint
 * **Visuals:**
     * Basic operations (These are the basic examples)
 
-        * Fetch Data 
-            file:///home/aayush/Pictures/Screenshots/Screenshot%20from%202024-07-30%2004-57-06.png     
+        * Fetch Data
+           ![Screenshot from 2024-07-30 04-57-06](https://github.com/user-attachments/assets/1a03b30f-521b-4c85-9f74-b4d2140f4a05)
+
 
         * Fetch and filter data
-            file:///home/aayush/Pictures/Screenshots/Screenshot%20from%202024-07-30%2004-57-42.png
+          ![Screenshot from 2024-07-30 04-57-42](https://github.com/user-attachments/assets/a4e86c99-a0bd-4713-b7b2-99b3686e1354)
 
         * Fetch and sort data
-            file:///home/aayush/Pictures/Screenshots/Screenshot%20from%202024-07-30%2004-58-14.png
+         ![Screenshot from 2024-07-30 04-58-14](https://github.com/user-attachments/assets/eb1e2200-41d9-41cd-8b10-151fee89dc83)
 
+            
         * Fetch, filter, and sort data
-            file:///home/aayush/Pictures/Screenshots/Screenshot%20from%202024-07-30%2004-58-57.png
+           ![Screenshot from 2024-07-30 04-58-57](https://github.com/user-attachments/assets/ecd2583d-0d63-4411-8944-b0ab5aaa4a60)
 
     * Tests (These are the basic examples)
         * Invalid filter format
-            ![alt text](image-1.png)
+            ![Screenshot from 2024-07-30 05-07-33](https://github.com/user-attachments/assets/c75b244e-9b70-484b-98cd-17aa2421042f)
 
         * Non-existent filter key
-            ![alt text](image-2.png)
+            ![Screenshot from 2024-07-30 05-11-00](https://github.com/user-attachments/assets/5b084664-fbc4-49ab-a214-b1d2f716beab)
 
         * Invalid sort format
-            ![alt text](image-3.png)
-
+            ![Screenshot from 2024-07-30 05-12-17](https://github.com/user-attachments/assets/6cb13bd6-7489-43f8-9ff8-b963edc6d930)
+               
         * Invalid sort order
-            ![alt text](image-4.png)
+            ![Screenshot from 2024-07-30 05-13-13](https://github.com/user-attachments/assets/ab7ba54b-f362-4790-a3ca-8caf4fa12afa)
             
     
-**Getting Started**
+## Getting Started
 
 **Prerequisites**
 
@@ -129,4 +131,3 @@ The API returns appropriate error messages and status codes for various error sc
 
 This project showcases a robust and well-documented Node.js application for fetching, filtering, and sorting data, along with effective error handling.
 
-# NodeJS-project
