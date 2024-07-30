@@ -123,8 +123,29 @@ The application is designed to be easily deployable to cloud platforms like Hero
 - **Database Optimization**: Optimize database queries and indexes for performance.
 
 ## Visuals
+- Fetch all data: `http://localhost:3000/api/data`
+ ![Screenshot from 2024-07-30 04-57-06](https://github.com/user-attachments/assets/3e7b427c-0fa0-4493-b6ac-e046d78f0ea4)
 
-[Include screenshots or diagrams of the application's UI, API responses, or any relevant visuals here]
+- Fetch and filter data: `http://localhost:3000/api/data?filter=language:Sindhi`
+ ![Screenshot from 2024-07-30 04-57-42](https://github.com/user-attachments/assets/86c7fa73-7a0b-4803-93dd-5183229034dc)
+
+- Fetch and sort data: `http://localhost:3000/api/data?sort=version:asc`
+ ![Screenshot from 2024-07-30 04-58-14](https://github.com/user-attachments/assets/9c07aaf2-9c65-4b1f-9ac0-7d6a8826905e)
+
+- Fetch, filter, and sort data: `http://localhost:3000/api/data?filter=language:Sindhi&sort=version:asc`
+ ![Screenshot from 2024-07-30 04-58-57](https://github.com/user-attachments/assets/b7b838ff-453c-424d-9feb-1802710621ff)
+
+
+- Invalid filter format: `http://localhost:3000/api/data?filter=invalidformat`
+ ![Screenshot from 2024-07-30 05-07-33](https://github.com/user-attachments/assets/9eae026c-9117-48ed-af43-f2ed000d5775)
+
+
+- Non-existent filter key: `http://localhost:3000/api/data?filter=nonexistentkey:value`
+ ![Screenshot from 2024-07-30 05-11-00](https://github.com/user-attachments/assets/daa56adc-4f62-4c68-b5d3-b9d1fb12535f)
+
+- Invalid sort format: `http://localhost:3000/api/data?sort=price:invalid`
+ ![Screenshot from 2024-07-30 05-12-17](https://github.com/user-attachments/assets/24ce8a38-f775-48e7-8ae0-7655328a1406)
+
 
 ## Conclusion
 
